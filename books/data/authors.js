@@ -23,6 +23,15 @@ const authors = [
     id: 5,
     name: 'William Faulkner',
     dob: 1897
+  },
+    {
+    id: 6,
+    name: 'Pu La Deshpande',
+    dob: 1897
+  },  {
+    id: 7,
+    name: 'P K Atre',
+    dob: 1897
   }
 ];
 
