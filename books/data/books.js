@@ -33,6 +33,27 @@ const books = [
     Author: 'William Faulkner',
     country: 'USA',
     yearPublished: '1929'
+  },
+  {
+    ranking: 6,
+    name: 'Batatyatchi CHaal',
+    Author: 'Pu La Deshpande',
+    country: 'India',
+    yearPublished: '1970'
+  },
+  {
+    ranking: 7,
+    name: 'P K Atre',
+    Author: 'Karheche Paani',
+    country: 'India',
+    yearPublished: '1960'
+  },
+  {
+    ranking: 8,
+    name: 'Paanipat',
+    Author: 'Vishwas Patil',
+    country: 'India',
+    yearPublished: '1980'
   }
 ];
 
