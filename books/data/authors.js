@@ -27,11 +27,13 @@ const authors = [
   {
     id: 6,
     name: 'Pu La Deshpande',
+    place: 'Mumbai',
     dob: 1897
   },
   {
     id: 7,
-    name: 'P K Atre',
+    name: 'P. K. Atre',
+    place: 'Pune',
     dob: 1897
   }
 ];
